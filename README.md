@@ -2,9 +2,11 @@
 
 My name is Mohammad Taha Mansouri,
 A graduate in Computer Engineering from Urmia University of Technology.
+
 I started coding at the age of 18.
 I worked for 2 years in Android development using Kotlin, and after that, I developed an interest in Artificial Intelligence.
-I’ve been learning and programming in the field of Artificial Intelligence for the past year.
+🔭 I’m currently working as a freelancer
+🌱 I’ve been learning and programming in the field of Artificial Intelligence for the past year.
 
 Currently, I’m serving in the military.
 I’d be happy to assist you with ideas and projects, and I look forward to connecting with you.
