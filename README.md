@@ -8,6 +8,7 @@ My name is Mohammad Taha Mansouri,
 
   Currently, I’m serving in the military.
 -  🤝 I’d be happy to assist you with ideas and projects, and I look forward to connecting with you.
+      Send ideas to mhmdtahamansoori@gmail.com
 <!--
 **tahalabs/tahalabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
